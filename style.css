@@ -1,0 +1,41 @@
+
+.isaac {
+    background-color: #FF85A1;
+    width: 500px;
+    margin: 15px;
+    margin: auto;
+    padding: 30px;
+    color: white;
+    border: 2px solid #FF0A54;
+
+}
+
+.arquimedes {
+    background-color: #FF99AC;
+    width: 500px;
+    margin: 15px;
+    margin: auto;
+    padding: 30px;
+    color: white;
+    border: 2px solid #FF477E;
+}
+
+.euclides {
+    background-color: #FBB1BD;
+    width: 500px;
+    margin: 15px;
+    margin: auto;
+    padding: 30px;
+    color: white;
+    border: 2px solid #FF5C8A;
+}
+
+.pitagoras {
+    background-color: #F9BEC7;
+    width: 500px;
+    margin: 15px;
+    margin: auto;
+    padding: 30px;
+    color: white;
+    border: 2px solid #FF7096;
+}
